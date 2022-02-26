@@ -11,3 +11,10 @@ G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.csprojAssemblyReferen
 G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.csproj.CoreCompileInputs.cache
 G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.dll
 G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.pdb
+H:\myhtml1\myhtml1\bin\myhtml1.dll.config
+H:\myhtml1\myhtml1\bin\myhtml1.dll
+H:\myhtml1\myhtml1\bin\myhtml1.pdb
+H:\myhtml1\myhtml1\obj\Debug\myhtml1.csproj.AssemblyReference.cache
+H:\myhtml1\myhtml1\obj\Debug\myhtml1.csproj.CoreCompileInputs.cache
+H:\myhtml1\myhtml1\obj\Debug\myhtml1.dll
+H:\myhtml1\myhtml1\obj\Debug\myhtml1.pdb
