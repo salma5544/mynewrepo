@@ -1,0 +1,13 @@
+c:\users\salma’s pc\documents\visual studio 2015\Projects\myhtml1\myhtml1\bin\myhtml1.dll.config
+c:\users\salma’s pc\documents\visual studio 2015\Projects\myhtml1\myhtml1\bin\myhtml1.dll
+c:\users\salma’s pc\documents\visual studio 2015\Projects\myhtml1\myhtml1\bin\myhtml1.pdb
+c:\users\salma’s pc\documents\visual studio 2015\Projects\myhtml1\myhtml1\obj\Debug\myhtml1.csprojResolveAssemblyReference.cache
+c:\users\salma’s pc\documents\visual studio 2015\Projects\myhtml1\myhtml1\obj\Debug\myhtml1.dll
+c:\users\salma’s pc\documents\visual studio 2015\Projects\myhtml1\myhtml1\obj\Debug\myhtml1.pdb
+G:\coures\session 1 HTML\myhtml1\myhtml1\bin\myhtml1.dll.config
+G:\coures\session 1 HTML\myhtml1\myhtml1\bin\myhtml1.dll
+G:\coures\session 1 HTML\myhtml1\myhtml1\bin\myhtml1.pdb
+G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.csprojAssemblyReference.cache
+G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.csproj.CoreCompileInputs.cache
+G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.dll
+G:\coures\session 1 HTML\myhtml1\myhtml1\obj\Debug\myhtml1.pdb
